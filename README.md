@@ -1,6 +1,6 @@
 # Bank Loan Analysis
 
-Dashboard Link : https://github.com/user-attachments/assets/d46b69e7-ce73-41a1-8865-94716278771e
+## Dashboard Link : https://github.com/user-attachments/assets/d46b69e7-ce73-41a1-8865-94716278771e
 
 ## Project Overview: 
 
